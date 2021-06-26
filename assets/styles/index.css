@@ -62,3 +62,6 @@
   overflow-y: scroll;
   font-size: 24px;
 }
+body {
+  background-color: #d7cede;
+}
